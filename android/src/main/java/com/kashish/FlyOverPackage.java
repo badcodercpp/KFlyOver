@@ -9,7 +9,7 @@ import com.facebook.react.bridge.NativeModule;
 import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.uimanager.ViewManager;
 import com.facebook.react.bridge.JavaScriptModule;
-import com.meewee.kashish.FlyOverModule;
+import com.kashish.FlyOverModule;
 
 public class FlyOverPackage implements ReactPackage {
     @Override
