@@ -32,7 +32,7 @@ public class FlyOverModule extends ReactContextBaseJavaModule implements Activit
 
   @Override
   public String getName() {
-    return "KFlyOver";
+    return "FlyOver";
   }
 
   @Nullable

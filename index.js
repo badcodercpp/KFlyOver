@@ -1,3 +1,3 @@
 import { NativeModules } from 'react-native';
-const { ActivityResult } = NativeModules;
-export default ActivityResult;
+const { FlyOver } = NativeModules;
+export default FlyOver;
