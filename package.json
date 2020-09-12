@@ -1,6 +1,6 @@
 {
     "name": "react-native-flyover",
-    "version": "0.1.25-rc.13",
+    "version": "0.1.25-rc.15",
     "description": "React Native Flyover for starting and finishing activities on Android.",
     "main": "index.js",
     "repository": {
