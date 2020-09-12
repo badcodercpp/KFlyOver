@@ -1,4 +1,4 @@
-# react-native-activity-result
+# react-native-flyover
 
 A simple React Native native flyover for invoking `Activity.startActivityForResult`, `Activity.setResult`, and `Activity.finish` to help with implementing app-to-app communication.
 
